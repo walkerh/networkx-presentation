@@ -4,4 +4,11 @@ version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "marimo[recommended]>=0.14.10",
+    "matplotlib>=3.10.3",
+    "networkx>=3.5",
+    "numpy>=2.3.1",
+    "openpyxl>=3.1.5",
+    "pandas>=2.3.1",
+]
