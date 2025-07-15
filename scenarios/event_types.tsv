@@ -1,0 +1,8 @@
+event	initial	terminal	note
+draft	TRUE		
+review			
+update			
+revise	TRUE		terminates previous
+approve		TRUE	
+reject		TRUE	
+withdraw		TRUE	

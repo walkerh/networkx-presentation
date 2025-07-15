@@ -1,0 +1,4 @@
+initial_id	final_id	start	end	result	num_versions
+1	1	2025-01-01	2025-01-05	approve	1
+2	4	2025-01-01	2025-01-08	approve	2
+3	7	2025-01-01	2025-01-13	approve	4
